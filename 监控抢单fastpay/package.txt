@@ -1,0 +1,5 @@
+pywin32
+keyboard
+selenium
+colorlog
+concurrent_log_handler

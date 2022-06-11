@@ -1,0 +1,747 @@
+21:23:48.204-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:23:49.95-INFO: ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+21:35:03.890-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:35:33.469-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:35:33.508-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+21:37:34.18-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:37:34.46-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+21:39:13.351-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:39:13.391-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+21:41:50.141-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:41:50.188-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+21:55:41.729-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:57:06.842-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:57:07.503-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+21:57:19.715-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+21:57:20.404-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+21:57:20.405-INFO: ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+21:57:33.311-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+21:57:45.612-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+22:04:10.362-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:04:11.65-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:04:11.65-INFO: ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+22:04:23.286-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+22:04:35.528-INFO: ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+22:17:36.979-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:17:37.612-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:18:41.615-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:18:42.294-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:19:17.541-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:19:18.206-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:23:49.194-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:23:49.903-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:24:05.391-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:24:06.80-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:25:25.438-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:25:26.146-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:26:49.459-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:26:50.110-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:27:17.668-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:27:18.365-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:27:48.40-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:27:48.696-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:30:34.420-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:30:35.64-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:30:36.7-INFO: ¥´∆Ê0: ±£¥Ê¥ ∏˘ ø™ º
+22:30:36.60-ERROR: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 201, in save_root_word
+    for i, title in enumerate(root_word_list):
+TypeError: 'NoneType' object is not iterable
+22:32:07.592-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:32:08.254-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:32:09.169-INFO: ¥´∆Ê0: ±£¥Ê¥ ∏˘ ø™ º
+22:33:10.226-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+22:33:10.903-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+22:33:11.826-INFO: ¥´∆Ê0: ±£¥Ê¥ ∏˘ ø™ º
+13:37:34.163-INFO: ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+13:37:34.887-INFO: ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+13:37:34.888-INFO: 1
+13:40:52.525-INFO
+-->¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+13:40:53.183-INFO
+-->¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+13:40:53.184-INFO
+-->1
+13:41:28.987
+INFO-->¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+13:41:29.647
+INFO-->¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+13:41:29.648
+INFO-->1
+13:42:01.618
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+13:42:02.247
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+13:42:02.248
+INFO--> 1
+14:50:29.406
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+14:50:30.183
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+14:50:30.184
+INFO--> ¥´∆Ê0: –¥»Î≤È¥  ˝æ› ø™ º
+14:50:30.253
+ERROR--> Cannot convert ['πÿº¸¥ ', 'À—À˜»À ˝', 'À—À˜¥Œ ˝', 'µ„ª˜¬ ', 'µ„ª˜»À ˝', 'µ„ª˜¥Œ ˝', 'Ωª“◊Ω∂Ó', '÷ß∏∂◊™ªØ¬ ', '‘⁄œﬂ…Ã∆∑ ˝', '…Ã≥«µ„ª˜’º±»', '÷±Õ®≥µ≤Œøºº€', '÷ß∏∂»À ˝', 'øÕµ•º€', 'À—À˜±∂ ˝', 'Ωª“◊±∂ ˝', '¿∂∫£÷µ'] to Excel
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 346, in write_data
+    sheet.cell(6 + i,1 + j).value = data
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\cell\cell.py", line 215, in value
+    self._bind_value(value)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\cell\cell.py", line 184, in _bind_value
+    raise ValueError("Cannot convert {0!r} to Excel".format(value))
+ValueError: Cannot convert ['πÿº¸¥ ', 'À—À˜»À ˝', 'À—À˜¥Œ ˝', 'µ„ª˜¬ ', 'µ„ª˜»À ˝', 'µ„ª˜¥Œ ˝', 'Ωª“◊Ω∂Ó', '÷ß∏∂◊™ªØ¬ ', '‘⁄œﬂ…Ã∆∑ ˝', '…Ã≥«µ„ª˜’º±»', '÷±Õ®≥µ≤Œøºº€', '÷ß∏∂»À ˝', 'øÕµ•º€', 'À—À˜±∂ ˝', 'Ωª“◊±∂ ˝', '¿∂∫£÷µ'] to Excel
+14:51:14.311
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+14:51:14.929
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+14:51:14.929
+INFO--> ¥´∆Ê0: –¥»Î≤È¥  ˝æ› ø™ º
+14:56:46.599
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+14:56:47.244
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+14:56:47.244
+INFO--> ¥´∆Ê0: –¥»Î≤È¥  ˝æ› ø™ º
+14:58:20.713
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+14:58:21.377
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+14:58:21.378
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+14:58:21.447
+ERROR--> expected <class 'str'>
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 162, in save_title
+    sheet.column_dimensions[1+i].width = horizontal_heander[1]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\utils\bound_dictionary.py", line 25, in __getitem__
+    setattr(value, self.reference, key)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\descriptors\base.py", line 42, in __set__
+    raise TypeError('expected ' + str(self.expected_type))
+TypeError: expected <class 'str'>
+14:59:26.253
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+14:59:26.915
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+14:59:26.915
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+14:59:26.989
+ERROR--> expected <class 'str'>
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 163, in save_title
+    sheet.column_dimensions[1+i].width = horizontal_heander[1]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\utils\bound_dictionary.py", line 25, in __getitem__
+    setattr(value, self.reference, key)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\descriptors\base.py", line 42, in __set__
+    raise TypeError('expected ' + str(self.expected_type))
+TypeError: expected <class 'str'>
+15:04:31.819
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+15:04:32.505
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+15:04:32.506
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+15:06:03.8
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+15:06:03.750
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+15:06:03.751
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:28:29.158
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:28:29.925
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:28:29.927
+INFO--> ¥´∆Ê0: {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:28:29.928
+INFO--> ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:28:59.940
+INFO--> 0∫≈Ω≈±æ“—Õ£÷π
+16:29:30.177
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:29:31.172
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:29:31.173
+INFO--> ¥´∆Ê0: {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:29:31.174
+INFO--> ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:29:31.253
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:29:44.493
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:29:44.847
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:29:52.619
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:29:52.903
+INFO--> Ω≈±æÕÍ≥…
+16:33:33.838
+INFO--> ¥´∆Ê0: {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:33:33.844
+INFO--> ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:33:33.958
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:33:43.882
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:33:44.215
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:33:55.903
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:33:56.233
+INFO--> Ω≈±æÕÍ≥…
+16:37:26.14
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:37:26.924
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:37:26.927
+INFO--> ¥´∆Ê0: {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:37:26.928
+INFO--> ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:37:27.59
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:37:38.848
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:37:39.200
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:37:53.639
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:40:55.620
+INFO--> ¥´∆Ê0: µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:40:56.298
+INFO--> ¥´∆Ê0: ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:40:56.299
+INFO--> ¥´∆Ê0: {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:40:56.299
+INFO--> ¥´∆Ê0: ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:40:56.388
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:41:04.386
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:41:04.597
+INFO--> ¥´∆Ê0: ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:41:11.576
+INFO--> ¥´∆Ê0: ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:42:05.448
+INFO--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:42:06.167
+INFO--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:42:06.168
+INFO--> {'input_index': '0', 'cmb_fun_switch': '∏¥÷∆±ÍÃ‚', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:42:06.169
+INFO--> ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:42:06.243
+INFO--> ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:42:14.547
+INFO--> ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:42:14.751
+INFO--> ªÒ»°Õ¨øÓ±ÍÃ‚ ø™ º
+16:42:22.768
+INFO--> ±£¥ÊÕ¨øÓ±ÍÃ‚ ø™ º
+16:44:06.754
+INFO--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:44:07.416
+INFO--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:44:07.418
+INFO--> {'input_index': '0', 'cmb_fun_switch': '≤∑÷¥ ∏˘', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:44:07.419
+INFO--> ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:44:07.497
+INFO--> ∂¡»°πÿº¸¥  ø™ º
+16:44:07.570
+INFO--> ¥ ∏˘∑÷Œˆ ø™ º
+16:44:08.421
+INFO--> ±£¥Ê¥ ∏˘ ø™ º
+16:44:08.644
+INFO--> ∂¡»°πÿº¸¥  ø™ º
+16:44:08.723
+INFO--> ¥ ∏˘∑÷Œˆ ø™ º
+16:44:08.733
+INFO--> ±£¥Ê¥ ∏˘ ø™ º
+16:46:29.175INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:46:29.843INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:46:29.845INFO
+--> {'input_index': '0', 'cmb_fun_switch': '≤∑÷¥ ∏˘', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:46:29.846INFO
+--> ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:46:29.928INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:46:30.4INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:46:30.817INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+16:46:31.38INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:46:31.122INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:46:31.126INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+16:56:56.324INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:56:57.415INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:56:57.417INFO
+--> {'input_index': '0', 'cmb_fun_switch': '≤∑÷¥ ∏˘', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:56:57.418INFO
+--> ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:56:57.554INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:56:57.689INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:56:58.637INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+16:56:58.922INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:56:59.25INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:56:59.29INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+16:57:43.425--INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+16:57:44.260--INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+16:57:44.271--INFO
+--> {'input_index': '0', 'cmb_fun_switch': '≤∑÷¥ ∏˘', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:57:44.279--INFO
+--> ∂¡»°≤˙∆∑¡–±Ì ø™ º
+16:57:44.479--INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:57:44.627--INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:57:45.656--INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+16:57:45.932--INFO
+--> ∂¡»°πÿº¸¥  ø™ º
+16:57:46.27--INFO
+--> ¥ ∏˘∑÷Œˆ ø™ º
+16:57:46.31--INFO
+--> ±£¥Ê¥ ∏˘ ø™ º
+20:10:44.650  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:11:09.760  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:11:09.763  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:11:10.55  ERROR
+--> 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+20:11:10.113  ERROR
+--> 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+20:11:22.725  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:11:23.473  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:11:23.473  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:11:23.567  ERROR
+--> 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+20:11:23.572  ERROR
+--> 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÷√ŒÔ2º‹ does not exist.'
+20:11:54.853  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:11:55.615  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:11:55.616  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:17:11.883  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:17:12.538  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:17:12.543  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:18:53.786  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:18:54.440  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:18:54.440  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:21:57.696  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:21:58.321  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:21:58.321  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:23:44.93  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:23:44.748  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:23:44.748  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:25:34.307  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:25:34.944  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:25:34.944  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:26:57.523  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:26:58.144  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:26:58.145  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:27:14.753  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:27:15.399  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:27:15.400  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:28:17.349  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:28:17.999  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:28:18.0  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:29:26.272  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:29:26.911  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:29:26.912  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:33:20.347  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:33:20.976  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:33:20.977  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:34:02.987  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:34:03.644  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:34:03.645  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:35:19.371  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:35:20.16  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:35:20.16  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:36:17.58  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:36:17.718  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:36:17.718  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:36:55.957  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:36:56.607  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:36:56.608  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:38:14.112  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:38:14.743  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:38:14.743  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:38:33.540  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:38:34.179  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:38:34.180  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:39:11.682  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:39:12.327  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:39:12.328  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:40:53.692  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:40:54.361  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:40:54.362  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:45:48.52  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:45:48.695  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:45:48.696  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:48:28.832  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:48:29.496  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:48:29.497  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:48:29.583  ERROR
+--> 'tuple' object has no attribute 'reverse'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 273, in find_max_col
+    col_list.reverse()
+AttributeError: 'tuple' object has no attribute 'reverse'
+20:48:29.587  ERROR
+--> 'tuple' object has no attribute 'reverse'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 273, in find_max_col
+    col_list.reverse()
+AttributeError: 'tuple' object has no attribute 'reverse'
+20:48:54.918  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:48:55.574  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:48:55.575  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:50:04.12  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:50:04.668  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:50:04.669  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:50:04.758  ERROR
+--> 'Cell' object has no attribute 'col'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 276, in find_max_col
+    print(cell.col, cell)
+AttributeError: 'Cell' object has no attribute 'col'
+20:50:04.762  ERROR
+--> 'Cell' object has no attribute 'col'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 276, in find_max_col
+    print(cell.col, cell)
+AttributeError: 'Cell' object has no attribute 'col'
+20:50:22.907  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:50:23.563  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:50:23.564  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:51:49.719  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:51:50.386  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:51:50.386  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:52:15.943  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:52:16.595  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:52:16.595  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:53:14.681  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:53:15.366  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:53:15.366  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:53:15.468  ERROR
+--> 'Cell' object has no attribute 'cell'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    if sheet['F1'].cell.value:
+AttributeError: 'Cell' object has no attribute 'cell'
+20:53:15.474  ERROR
+--> 'Cell' object has no attribute 'cell'
+Traceback (most recent call last):
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonœÓƒø∫Õπ§æﬂ\±ÍÃ‚¡—±‰\fun_module.py", line 261, in save_data
+    if sheet['F1'].cell.value:
+AttributeError: 'Cell' object has no attribute 'cell'
+20:53:30.89  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:53:30.737  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:53:30.737  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:53:55.496  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:53:56.110  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:53:56.110  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+20:54:06.83  INFO
+--> µ±«∞≤Âº˛∞Ê±æ:3.1233
+20:54:06.726  INFO
+--> ¡¨Ω”360∞≤»´‰Ø¿¿∆˜≥…π¶!
+20:54:06.727  INFO
+--> ±£¥Ê≤È¥  ˝æ› ø™ º
+14:58:30.431  ERROR
+--> 'ChuanQi' object has no attribute 'debug_mode'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 95, in pretreatment
+    self.dl(task_name + " ÂºÄÂßã")
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/auto_moudle.py", line 31, in dl
+    if self.debug_mode:
+AttributeError: 'ChuanQi' object has no attribute 'debug_mode'
+14:58:30.439  ERROR
+--> 'ChuanQi' object has no attribute 'debug_mode'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 95, in pretreatment
+    self.dl(task_name + " ÂºÄÂßã")
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/auto_moudle.py", line 31, in dl
+    if self.debug_mode:
+AttributeError: 'ChuanQi' object has no attribute 'debug_mode'
+14:59:18.163  ERROR
+--> 'ChuanQi' object has no attribute 'debug_mode'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 95, in pretreatment
+    self.dl(task_name + " ÂºÄÂßã")
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/auto_moudle.py", line 31, in dl
+    if self.debug_mode:
+AttributeError: 'ChuanQi' object has no attribute 'debug_mode'
+14:59:18.163  ERROR
+--> 'ChuanQi' object has no attribute 'debug_mode'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 95, in pretreatment
+    self.dl(task_name + " ÂºÄÂßã")
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/auto_moudle.py", line 31, in dl
+    if self.debug_mode:
+AttributeError: 'ChuanQi' object has no attribute 'debug_mode'
+14:59:47.405  INFO
+--> Ëé∑ÂèñÂÖ≥ÈîÆËØç ÂºÄÂßã
+14:59:47.456  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+14:59:47.457  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:01:10.318  INFO
+--> Ëé∑ÂèñÂÖ≥ÈîÆËØç ÂºÄÂßã
+15:01:10.363  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:01:10.364  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:02:32.957  INFO
+--> Ëé∑ÂèñÂÖ≥ÈîÆËØç ÂºÄÂßã
+15:02:33.0  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:02:33.1  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 107, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:02:53.371  INFO
+--> Ëé∑ÂèñÂÖ≥ÈîÆËØç ÂºÄÂßã
+15:02:53.415  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 108, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:02:53.415  ERROR
+--> 'Worksheet ÈªëÂêçÂçï does not exist.'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythonÈ°πÁõÆÂíåÂ∑•ÂÖ∑/Â∑≤ÂÆåÊàêÁöÑ/Ê†áÈ¢òË£ÇÂèò/fun_module.py", line 108, in get_black_list
+    sheet = book['ÈªëÂêçÂçï']
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/openpyxl/workbook/workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÈªëÂêçÂçï does not exist.'
+15:03:02.895  INFO
+--> Ëé∑ÂèñÂÖ≥ÈîÆËØç ÂºÄÂßã
+15:03:02.938  INFO
+--> []

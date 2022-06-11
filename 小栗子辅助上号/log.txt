@@ -1,0 +1,85 @@
+13:34:32-ERROR: 没有找到账号密码文件!
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\LeiDian.py", line 134, in get_qq_account_pwd
+    raise Exception("没有找到账号密码文件!")
+Exception: 没有找到账号密码文件!
+13:34:32-ERROR: {task_name} 出错
+13:35:15-ERROR: 没有找到账号密码文件!
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\LeiDian.py", line 135, in get_qq_account_pwd
+    raise Exception("没有找到账号密码文件!")
+Exception: 没有找到账号密码文件!
+13:35:15-ERROR: {task_name} 出错
+13:35:49-ERROR: 没有找到账号密码文件!
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\LeiDian.py", line 135, in get_qq_account_pwd
+    raise Exception("没有找到账号密码文件!")
+Exception: 没有找到账号密码文件!
+13:35:49-ERROR: {task_name} 出错
+14:36:29-ERROR: write() argument must be str, not list
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\LeiDian.py", line 159, in save_qq_account_pwd_list
+    file_writer.write(self.qq_account_pwd_list)
+TypeError: write() argument must be str, not list
+14:36:29-ERROR: {task_name} 出错
+14:38:33-ERROR: write() argument must be str, not list
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\LeiDian.py", line 160, in save_qq_account_pwd_list
+    file_writer.write(self.qq_account_pwd_list)
+TypeError: write() argument must be str, not list
+14:38:33-ERROR: {task_name} 出错
+20:25:39-ERROR: list index out of range
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\lib.py", line 628, in connect
+    self.app = pywinauto.Application().connect(handle=app_list[i])
+IndexError: list index out of range
+20:25:39-ERROR: 连接窗口出错
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\lib.py", line 628, in connect
+    self.app = pywinauto.Application().connect(handle=app_list[i])
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\XiaoLiZi.py", line 12, in connect
+    self.ws.connect(0, title_re=".*小栗子框架.*")
+  File "Z:\python项目和工具\小栗子辅助上号\lib.py", line 632, in connect
+    raise Exception("连接窗口出错")
+Exception: 连接窗口出错
+20:25:39-WARNING: 连接窗口出错
+22:56:29-ERROR: 'str' object is not callable
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 36, in run
+    result = self.current_task()
+TypeError: 'str' object is not callable
+23:33:24-ERROR: 'MyThread' object has no attribute 'thrad'
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 37, in run
+    eval(code)
+  File "<string>", line 1, in <module>
+AttributeError: 'MyThread' object has no attribute 'thrad'
+23:39:04-ERROR: 'MyThread' object has no attribute 'currentThradId'
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 36, in run
+    eval(code)
+  File "<string>", line 1, in <module>
+AttributeError: 'MyThread' object has no attribute 'currentThradId'
+23:39:10-ERROR: 'MyThread' object has no attribute 'currentThradId'
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 36, in run
+    eval(code)
+  File "<string>", line 1, in <module>
+AttributeError: 'MyThread' object has no attribute 'currentThradId'
+14:06:09-ERROR: [Errno 2] No such file or directory: './test.py'
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 36, in run
+    with open("./test.py","r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: './test.py'
+14:10:30-ERROR: 'Response' object has no attribute 'body'
+Traceback (most recent call last):
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 39, in run
+    result = self.current_task()
+  File "Z:\python项目和工具\小栗子辅助上号\main.py", line 168, in run_code
+    code = self.jgy.get("python_project/qq_login/code.py").body
+AttributeError: 'Response' object has no attribute 'body'

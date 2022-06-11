@@ -1,0 +1,1059 @@
+21:23:48.204-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:23:49.95-INFO: ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+21:35:03.890-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:35:33.469-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:35:33.508-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+21:37:34.18-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:37:34.46-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+21:39:13.351-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:39:13.391-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+21:41:50.141-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:41:50.188-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+21:55:41.729-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:57:06.842-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:57:07.503-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+21:57:19.715-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+21:57:20.404-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+21:57:20.405-INFO: ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+21:57:33.311-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+21:57:45.612-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+22:04:10.362-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:04:11.65-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:04:11.65-INFO: ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+22:04:23.286-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+22:04:35.528-INFO: ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+22:17:36.979-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:17:37.612-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:18:41.615-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:18:42.294-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:19:17.541-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:19:18.206-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:23:49.194-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:23:49.903-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:24:05.391-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:24:06.80-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:25:25.438-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:25:26.146-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:26:49.459-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:26:50.110-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:27:17.668-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:27:18.365-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:27:48.40-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:27:48.696-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:30:34.420-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:30:35.64-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:30:36.7-INFO: ´«Ææ0: ±£´æ´Ê¸ù ¿ªÊ¼
+22:30:36.60-ERROR: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 201, in save_root_word
+    for i, title in enumerate(root_word_list):
+TypeError: 'NoneType' object is not iterable
+22:32:07.592-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:32:08.254-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:32:09.169-INFO: ´«Ææ0: ±£´æ´Ê¸ù ¿ªÊ¼
+22:33:10.226-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+22:33:10.903-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+22:33:11.826-INFO: ´«Ææ0: ±£´æ´Ê¸ù ¿ªÊ¼
+13:37:34.163-INFO: ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+13:37:34.887-INFO: ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+13:37:34.888-INFO: 1
+13:40:52.525-INFO
+-->´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+13:40:53.183-INFO
+-->´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+13:40:53.184-INFO
+-->1
+13:41:28.987
+INFO-->´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+13:41:29.647
+INFO-->´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+13:41:29.648
+INFO-->1
+13:42:01.618
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+13:42:02.247
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+13:42:02.248
+INFO--> 1
+14:50:29.406
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+14:50:30.183
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+14:50:30.184
+INFO--> ´«Ææ0: Ğ´Èë²é´ÊÊı¾İ ¿ªÊ¼
+14:50:30.253
+ERROR--> Cannot convert ['¹Ø¼ü´Ê', 'ËÑË÷ÈËÊı', 'ËÑË÷´ÎÊı', 'µã»÷ÂÊ', 'µã»÷ÈËÊı', 'µã»÷´ÎÊı', '½»Ò×½ğ¶î', 'Ö§¸¶×ª»¯ÂÊ', 'ÔÚÏßÉÌÆ·Êı', 'ÉÌ³Çµã»÷Õ¼±È', 'Ö±Í¨³µ²Î¿¼¼Û', 'Ö§¸¶ÈËÊı', '¿Íµ¥¼Û', 'ËÑË÷±¶Êı', '½»Ò×±¶Êı', 'À¶º£Öµ'] to Excel
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 346, in write_data
+    sheet.cell(6 + i,1 + j).value = data
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\cell\cell.py", line 215, in value
+    self._bind_value(value)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\cell\cell.py", line 184, in _bind_value
+    raise ValueError("Cannot convert {0!r} to Excel".format(value))
+ValueError: Cannot convert ['¹Ø¼ü´Ê', 'ËÑË÷ÈËÊı', 'ËÑË÷´ÎÊı', 'µã»÷ÂÊ', 'µã»÷ÈËÊı', 'µã»÷´ÎÊı', '½»Ò×½ğ¶î', 'Ö§¸¶×ª»¯ÂÊ', 'ÔÚÏßÉÌÆ·Êı', 'ÉÌ³Çµã»÷Õ¼±È', 'Ö±Í¨³µ²Î¿¼¼Û', 'Ö§¸¶ÈËÊı', '¿Íµ¥¼Û', 'ËÑË÷±¶Êı', '½»Ò×±¶Êı', 'À¶º£Öµ'] to Excel
+14:51:14.311
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+14:51:14.929
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+14:51:14.929
+INFO--> ´«Ææ0: Ğ´Èë²é´ÊÊı¾İ ¿ªÊ¼
+14:56:46.599
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+14:56:47.244
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+14:56:47.244
+INFO--> ´«Ææ0: Ğ´Èë²é´ÊÊı¾İ ¿ªÊ¼
+14:58:20.713
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+14:58:21.377
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+14:58:21.378
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+14:58:21.447
+ERROR--> expected <class 'str'>
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 162, in save_title
+    sheet.column_dimensions[1+i].width = horizontal_heander[1]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\utils\bound_dictionary.py", line 25, in __getitem__
+    setattr(value, self.reference, key)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\descriptors\base.py", line 42, in __set__
+    raise TypeError('expected ' + str(self.expected_type))
+TypeError: expected <class 'str'>
+14:59:26.253
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+14:59:26.915
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+14:59:26.915
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+14:59:26.989
+ERROR--> expected <class 'str'>
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 163, in save_title
+    sheet.column_dimensions[1+i].width = horizontal_heander[1]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\utils\bound_dictionary.py", line 25, in __getitem__
+    setattr(value, self.reference, key)
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\descriptors\base.py", line 42, in __set__
+    raise TypeError('expected ' + str(self.expected_type))
+TypeError: expected <class 'str'>
+15:04:31.819
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+15:04:32.505
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+15:04:32.506
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+15:06:03.8
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+15:06:03.750
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+15:06:03.751
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:28:29.158
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+16:28:29.925
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:28:29.927
+INFO--> ´«Ææ0: {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:28:29.928
+INFO--> ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:28:59.940
+INFO--> 0ºÅ½Å±¾ÒÑÍ£Ö¹
+16:29:30.177
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+16:29:31.172
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:29:31.173
+INFO--> ´«Ææ0: {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:29:31.174
+INFO--> ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:29:31.253
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:29:44.493
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:29:44.847
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:29:52.619
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:29:52.903
+INFO--> ½Å±¾Íê³É
+16:33:33.838
+INFO--> ´«Ææ0: {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:33:33.844
+INFO--> ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:33:33.958
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:33:43.882
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:33:44.215
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:33:55.903
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:33:56.233
+INFO--> ½Å±¾Íê³É
+16:37:26.14
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+16:37:26.924
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:37:26.927
+INFO--> ´«Ææ0: {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:37:26.928
+INFO--> ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:37:27.59
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:37:38.848
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:37:39.200
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:37:53.639
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:40:55.620
+INFO--> ´«Ææ0: µ±Ç°²å¼ş°æ±¾:3.1233
+16:40:56.298
+INFO--> ´«Ææ0: Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:40:56.299
+INFO--> ´«Ææ0: {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:40:56.299
+INFO--> ´«Ææ0: ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:40:56.388
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:41:04.386
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:41:04.597
+INFO--> ´«Ææ0: »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:41:11.576
+INFO--> ´«Ææ0: ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:42:05.448
+INFO--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:42:06.167
+INFO--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:42:06.168
+INFO--> {'input_index': '0', 'cmb_fun_switch': '¸´ÖÆ±êÌâ', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:42:06.169
+INFO--> ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:42:06.243
+INFO--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:42:14.547
+INFO--> ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:42:14.751
+INFO--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:42:22.768
+INFO--> ±£´æÍ¬¿î±êÌâ ¿ªÊ¼
+16:44:06.754
+INFO--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:44:07.416
+INFO--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:44:07.418
+INFO--> {'input_index': '0', 'cmb_fun_switch': '²ğ·Ö´Ê¸ù', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:44:07.419
+INFO--> ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:44:07.497
+INFO--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:44:07.570
+INFO--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:44:08.421
+INFO--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:44:08.644
+INFO--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:44:08.723
+INFO--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:44:08.733
+INFO--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:46:29.175INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:46:29.843INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:46:29.845INFO
+--> {'input_index': '0', 'cmb_fun_switch': '²ğ·Ö´Ê¸ù', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:46:29.846INFO
+--> ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:46:29.928INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:46:30.4INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:46:30.817INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:46:31.38INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:46:31.122INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:46:31.126INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:56:56.324INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:56:57.415INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:56:57.417INFO
+--> {'input_index': '0', 'cmb_fun_switch': '²ğ·Ö´Ê¸ù', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:56:57.418INFO
+--> ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:56:57.554INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:56:57.689INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:56:58.637INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:56:58.922INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:56:59.25INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:56:59.29INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:57:43.425--INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:57:44.260--INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:57:44.271--INFO
+--> {'input_index': '0', 'cmb_fun_switch': '²ğ·Ö´Ê¸ù', 'checkbox_cut_enable': False, 'index': 0, 'hwnd': 393790}
+16:57:44.279--INFO
+--> ¶ÁÈ¡²úÆ·ÁĞ±í ¿ªÊ¼
+16:57:44.479--INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:57:44.627--INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:57:45.656--INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+16:57:45.932--INFO
+--> ¶ÁÈ¡¹Ø¼ü´Ê ¿ªÊ¼
+16:57:46.27--INFO
+--> ´Ê¸ù·ÖÎö ¿ªÊ¼
+16:57:46.31--INFO
+--> ±£´æ´Ê¸ù ¿ªÊ¼
+20:10:44.650  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:11:09.760  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:11:09.763  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:11:10.55  ERROR
+--> 'Worksheet ÖÃÎï2¼Ü does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÖÃÎï2¼Ü does not exist.'
+20:11:10.113  ERROR
+--> 'Worksheet ÖÃÎï2¼Ü does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÖÃÎï2¼Ü does not exist.'
+20:11:22.725  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:11:23.473  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:11:23.473  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:11:23.567  ERROR
+--> 'Worksheet ÖÃÎï2¼Ü does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÖÃÎï2¼Ü does not exist.'
+20:11:23.572  ERROR
+--> 'Worksheet ÖÃÎï2¼Ü does not exist.'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 249, in save_data
+    sheet = book[sheet_name]
+  File "C:\Users\178me\AppData\Local\Programs\Python\Python36-32\lib\site-packages\openpyxl\workbook\workbook.py", line 288, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet ÖÃÎï2¼Ü does not exist.'
+20:11:54.853  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:11:55.615  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:11:55.616  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:17:11.883  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:17:12.538  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:17:12.543  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:18:53.786  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:18:54.440  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:18:54.440  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:21:57.696  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:21:58.321  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:21:58.321  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:23:44.93  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:23:44.748  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:23:44.748  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:25:34.307  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:25:34.944  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:25:34.944  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:26:57.523  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:26:58.144  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:26:58.145  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:27:14.753  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:27:15.399  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:27:15.400  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:28:17.349  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:28:17.999  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:28:18.0  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:29:26.272  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:29:26.911  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:29:26.912  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:33:20.347  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:33:20.976  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:33:20.977  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:34:02.987  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:34:03.644  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:34:03.645  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:35:19.371  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:35:20.16  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:35:20.16  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:36:17.58  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:36:17.718  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:36:17.718  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:36:55.957  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:36:56.607  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:36:56.608  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:38:14.112  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:38:14.743  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:38:14.743  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:38:33.540  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:38:34.179  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:38:34.180  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:39:11.682  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:39:12.327  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:39:12.328  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:40:53.692  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:40:54.361  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:40:54.362  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:45:48.52  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:45:48.695  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:45:48.696  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:48:28.832  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:48:29.496  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:48:29.497  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:48:29.583  ERROR
+--> 'tuple' object has no attribute 'reverse'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 273, in find_max_col
+    col_list.reverse()
+AttributeError: 'tuple' object has no attribute 'reverse'
+20:48:29.587  ERROR
+--> 'tuple' object has no attribute 'reverse'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 273, in find_max_col
+    col_list.reverse()
+AttributeError: 'tuple' object has no attribute 'reverse'
+20:48:54.918  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:48:55.574  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:48:55.575  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:50:04.12  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:50:04.668  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:50:04.669  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:50:04.758  ERROR
+--> 'Cell' object has no attribute 'col'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 276, in find_max_col
+    print(cell.col, cell)
+AttributeError: 'Cell' object has no attribute 'col'
+20:50:04.762  ERROR
+--> 'Cell' object has no attribute 'col'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    self.find_max_col(sheet["F"])
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 276, in find_max_col
+    print(cell.col, cell)
+AttributeError: 'Cell' object has no attribute 'col'
+20:50:22.907  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:50:23.563  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:50:23.564  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:51:49.719  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:51:50.386  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:51:50.386  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:52:15.943  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:52:16.595  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:52:16.595  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:53:14.681  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:53:15.366  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:53:15.366  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:53:15.468  ERROR
+--> 'Cell' object has no attribute 'cell'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    if sheet['F1'].cell.value:
+AttributeError: 'Cell' object has no attribute 'cell'
+20:53:15.474  ERROR
+--> 'Cell' object has no attribute 'cell'
+Traceback (most recent call last):
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "Z:\pythonÏîÄ¿ºÍ¹¤¾ß\±êÌâÁÑ±ä\fun_module.py", line 261, in save_data
+    if sheet['F1'].cell.value:
+AttributeError: 'Cell' object has no attribute 'cell'
+20:53:30.89  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:53:30.737  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:53:30.737  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:53:55.496  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:53:56.110  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:53:56.110  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+20:54:06.83  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+20:54:06.726  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+20:54:06.727  INFO
+--> ±£´æ²é´ÊÊı¾İ ¿ªÊ¼
+16:03:08.500  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:03:09.235  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:03:09.235  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:03:54.371  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:03:55.26  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:03:55.26  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:06:38.486  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:06:39.299  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:06:39.299  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:06:53.388  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:06:54.41  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:06:54.41  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:08:29.644  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:08:30.324  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:08:30.325  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+16:09:03.841  INFO
+--> µ±Ç°²å¼ş°æ±¾:3.1233
+16:09:04.517  INFO
+--> Á¬½Ó360°²È«ä¯ÀÀÆ÷³É¹¦!
+16:09:04.518  INFO
+--> »ñÈ¡Í¬¿î±êÌâ ¿ªÊ¼
+14:43:39.339  ERROR
+--> 'XuanPin' object has no attribute 'pretreatment'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+AttributeError: 'XuanPin' object has no attribute 'pretreatment'
+14:43:39.340  ERROR
+--> 'XuanPin' object has no attribute 'pretreatment'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+AttributeError: 'XuanPin' object has no attribute 'pretreatment'
+14:44:49.241  ERROR
+--> XuanPin.pretreatment() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+TypeError: XuanPin.pretreatment() takes 1 positional argument but 2 were given
+14:44:49.243  ERROR
+--> XuanPin.pretreatment() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 55, in wrapped_function
+    args[0].pretreatment(self.task_name)
+TypeError: XuanPin.pretreatment() takes 1 positional argument but 2 were given
+14:44:53.495  ERROR
+--> 'XuanPin' object has no attribute 'open_url'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 13, in get_same_item_id
+    self.open_url(same_item_url,3)
+AttributeError: 'XuanPin' object has no attribute 'open_url'
+14:44:53.497  ERROR
+--> 'XuanPin' object has no attribute 'open_url'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 13, in get_same_item_id
+    self.open_url(same_item_url,3)
+AttributeError: 'XuanPin' object has no attribute 'open_url'
+16:07:27.111  ERROR
+--> 'list' object has no attribute 'get_attribute'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 28, in get_same_item_id
+    elem.get_attribute("nid")
+AttributeError: 'list' object has no attribute 'get_attribute'
+16:07:27.112  ERROR
+--> 'list' object has no attribute 'get_attribute'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 28, in get_same_item_id
+    elem.get_attribute("nid")
+AttributeError: 'list' object has no attribute 'get_attribute'
+16:07:34.194  ERROR
+--> 'list' object has no attribute 'get_attribute'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 28, in get_same_item_id
+    elem.get_attribute("nid")
+AttributeError: 'list' object has no attribute 'get_attribute'
+16:07:34.194  ERROR
+--> 'list' object has no attribute 'get_attribute'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 28, in get_same_item_id
+    elem.get_attribute("nid")
+AttributeError: 'list' object has no attribute 'get_attribute'
+16:09:47.139  ERROR
+--> can't multiply sequence by non-int of type 'builtin_function_or_method'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    print*timao_test
+TypeError: can't multiply sequence by non-int of type 'builtin_function_or_method'
+16:09:47.140  ERROR
+--> can't multiply sequence by non-int of type 'builtin_function_or_method'
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    print*timao_test
+TypeError: can't multiply sequence by non-int of type 'builtin_function_or_method'
+16:12:02.952  ERROR
+--> Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x558ffe817a44 <unknown>
+#1 0x558ffe1f56dd <unknown>
+#2 0x558ffe1f96e6 <unknown>
+#3 0x558ffe1f94ba <unknown>
+#4 0x558ffe1f98d9 <unknown>
+#5 0x558ffe233e11 <unknown>
+#6 0x558ffe234471 <unknown>
+#7 0x558ffe272ab2 <unknown>
+#8 0x558ffe25b56d <unknown>
+#9 0x558ffe26fdcf <unknown>
+#10 0x558ffe25b403 <unknown>
+#11 0x558ffe2243f2 <unknown>
+#12 0x558ffe225e6c <unknown>
+#13 0x558ffe847dbf <unknown>
+#14 0x558ffe86172d <unknown>
+#15 0x558ffe849e75 <unknown>
+#16 0x558ffe862206 <unknown>
+#17 0x558ffe83eca1 <unknown>
+#18 0x558ffe87e137 <unknown>
+#19 0x558ffe87e316 <unknown>
+#20 0x558ffe899ad5 <unknown>
+#21 0x7f9d3db1b259 <unknown>
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    timao_test = self.find_elems(
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/web_auto.py", line 69, in find_elems
+    elem_list = self.driver.find_elements(By.XPATH, xpath)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1279, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x558ffe817a44 <unknown>
+#1 0x558ffe1f56dd <unknown>
+#2 0x558ffe1f96e6 <unknown>
+#3 0x558ffe1f94ba <unknown>
+#4 0x558ffe1f98d9 <unknown>
+#5 0x558ffe233e11 <unknown>
+#6 0x558ffe234471 <unknown>
+#7 0x558ffe272ab2 <unknown>
+#8 0x558ffe25b56d <unknown>
+#9 0x558ffe26fdcf <unknown>
+#10 0x558ffe25b403 <unknown>
+#11 0x558ffe2243f2 <unknown>
+#12 0x558ffe225e6c <unknown>
+#13 0x558ffe847dbf <unknown>
+#14 0x558ffe86172d <unknown>
+#15 0x558ffe849e75 <unknown>
+#16 0x558ffe862206 <unknown>
+#17 0x558ffe83eca1 <unknown>
+#18 0x558ffe87e137 <unknown>
+#19 0x558ffe87e316 <unknown>
+#20 0x558ffe899ad5 <unknown>
+#21 0x7f9d3db1b259 <unknown>
+
+16:12:02.955  ERROR
+--> Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x558ffe817a44 <unknown>
+#1 0x558ffe1f56dd <unknown>
+#2 0x558ffe1f96e6 <unknown>
+#3 0x558ffe1f94ba <unknown>
+#4 0x558ffe1f98d9 <unknown>
+#5 0x558ffe233e11 <unknown>
+#6 0x558ffe234471 <unknown>
+#7 0x558ffe272ab2 <unknown>
+#8 0x558ffe25b56d <unknown>
+#9 0x558ffe26fdcf <unknown>
+#10 0x558ffe25b403 <unknown>
+#11 0x558ffe2243f2 <unknown>
+#12 0x558ffe225e6c <unknown>
+#13 0x558ffe847dbf <unknown>
+#14 0x558ffe86172d <unknown>
+#15 0x558ffe849e75 <unknown>
+#16 0x558ffe862206 <unknown>
+#17 0x558ffe83eca1 <unknown>
+#18 0x558ffe87e137 <unknown>
+#19 0x558ffe87e316 <unknown>
+#20 0x558ffe899ad5 <unknown>
+#21 0x7f9d3db1b259 <unknown>
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    timao_test = self.find_elems(
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/web_auto.py", line 69, in find_elems
+    elem_list = self.driver.find_elements(By.XPATH, xpath)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1279, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/img/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x558ffe817a44 <unknown>
+#1 0x558ffe1f56dd <unknown>
+#2 0x558ffe1f96e6 <unknown>
+#3 0x558ffe1f94ba <unknown>
+#4 0x558ffe1f98d9 <unknown>
+#5 0x558ffe233e11 <unknown>
+#6 0x558ffe234471 <unknown>
+#7 0x558ffe272ab2 <unknown>
+#8 0x558ffe25b56d <unknown>
+#9 0x558ffe26fdcf <unknown>
+#10 0x558ffe25b403 <unknown>
+#11 0x558ffe2243f2 <unknown>
+#12 0x558ffe225e6c <unknown>
+#13 0x558ffe847dbf <unknown>
+#14 0x558ffe86172d <unknown>
+#15 0x558ffe849e75 <unknown>
+#16 0x558ffe862206 <unknown>
+#17 0x558ffe83eca1 <unknown>
+#18 0x558ffe87e137 <unknown>
+#19 0x558ffe87e316 <unknown>
+#20 0x558ffe899ad5 <unknown>
+#21 0x7f9d3db1b259 <unknown>
+
+16:12:34.642  ERROR
+--> Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x5632b5ea4a44 <unknown>
+#1 0x5632b58826dd <unknown>
+#2 0x5632b58866e6 <unknown>
+#3 0x5632b58864ba <unknown>
+#4 0x5632b58868d9 <unknown>
+#5 0x5632b58c0e11 <unknown>
+#6 0x5632b58c1471 <unknown>
+#7 0x5632b58ffab2 <unknown>
+#8 0x5632b58e856d <unknown>
+#9 0x5632b58fcdcf <unknown>
+#10 0x5632b58e8403 <unknown>
+#11 0x5632b58b13f2 <unknown>
+#12 0x5632b58b2e6c <unknown>
+#13 0x5632b5ed4dbf <unknown>
+#14 0x5632b5eee72d <unknown>
+#15 0x5632b5ed6e75 <unknown>
+#16 0x5632b5eef206 <unknown>
+#17 0x5632b5ecbca1 <unknown>
+#18 0x5632b5f0b137 <unknown>
+#19 0x5632b5f0b316 <unknown>
+#20 0x5632b5f26ad5 <unknown>
+#21 0x7fa7f22b0259 <unknown>
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    timao_test = self.find_elems(
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/web_auto.py", line 69, in find_elems
+    elem_list = self.driver.find_elements(By.XPATH, xpath)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1279, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x5632b5ea4a44 <unknown>
+#1 0x5632b58826dd <unknown>
+#2 0x5632b58866e6 <unknown>
+#3 0x5632b58864ba <unknown>
+#4 0x5632b58868d9 <unknown>
+#5 0x5632b58c0e11 <unknown>
+#6 0x5632b58c1471 <unknown>
+#7 0x5632b58ffab2 <unknown>
+#8 0x5632b58e856d <unknown>
+#9 0x5632b58fcdcf <unknown>
+#10 0x5632b58e8403 <unknown>
+#11 0x5632b58b13f2 <unknown>
+#12 0x5632b58b2e6c <unknown>
+#13 0x5632b5ed4dbf <unknown>
+#14 0x5632b5eee72d <unknown>
+#15 0x5632b5ed6e75 <unknown>
+#16 0x5632b5eef206 <unknown>
+#17 0x5632b5ecbca1 <unknown>
+#18 0x5632b5f0b137 <unknown>
+#19 0x5632b5f0b316 <unknown>
+#20 0x5632b5f26ad5 <unknown>
+#21 0x7fa7f22b0259 <unknown>
+
+16:12:34.642  ERROR
+--> Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x5632b5ea4a44 <unknown>
+#1 0x5632b58826dd <unknown>
+#2 0x5632b58866e6 <unknown>
+#3 0x5632b58864ba <unknown>
+#4 0x5632b58868d9 <unknown>
+#5 0x5632b58c0e11 <unknown>
+#6 0x5632b58c1471 <unknown>
+#7 0x5632b58ffab2 <unknown>
+#8 0x5632b58e856d <unknown>
+#9 0x5632b58fcdcf <unknown>
+#10 0x5632b58e8403 <unknown>
+#11 0x5632b58b13f2 <unknown>
+#12 0x5632b58b2e6c <unknown>
+#13 0x5632b5ed4dbf <unknown>
+#14 0x5632b5eee72d <unknown>
+#15 0x5632b5ed6e75 <unknown>
+#16 0x5632b5eef206 <unknown>
+#17 0x5632b5ecbca1 <unknown>
+#18 0x5632b5f0b137 <unknown>
+#19 0x5632b5f0b316 <unknown>
+#20 0x5632b5f26ad5 <unknown>
+#21 0x7fa7f22b0259 <unknown>
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 26, in get_same_item_id
+    timao_test = self.find_elems(
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/web_auto.py", line 69, in find_elems
+    elem_list = self.driver.find_elements(By.XPATH, xpath)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1279, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/home/yzl178me/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="layui-tab-item t1 layui-show"]//*[@class="lxSimilarShop"]/sibling::input' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+#0 0x5632b5ea4a44 <unknown>
+#1 0x5632b58826dd <unknown>
+#2 0x5632b58866e6 <unknown>
+#3 0x5632b58864ba <unknown>
+#4 0x5632b58868d9 <unknown>
+#5 0x5632b58c0e11 <unknown>
+#6 0x5632b58c1471 <unknown>
+#7 0x5632b58ffab2 <unknown>
+#8 0x5632b58e856d <unknown>
+#9 0x5632b58fcdcf <unknown>
+#10 0x5632b58e8403 <unknown>
+#11 0x5632b58b13f2 <unknown>
+#12 0x5632b58b2e6c <unknown>
+#13 0x5632b5ed4dbf <unknown>
+#14 0x5632b5eee72d <unknown>
+#15 0x5632b5ed6e75 <unknown>
+#16 0x5632b5eef206 <unknown>
+#17 0x5632b5ecbca1 <unknown>
+#18 0x5632b5f0b137 <unknown>
+#19 0x5632b5f0b316 <unknown>
+#20 0x5632b5f26ad5 <unknown>
+#21 0x7fa7f22b0259 <unknown>
+
+16:30:40.487  ERROR
+--> invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 35, in get_same_item_id
+    elems.sort(key=sort_a, reverse=True)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 34, in sort_a
+    return self.get_number(e.get_attribute("textContent"))
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 13, in get_number
+    return int("".join(list(filter(str.isdigit, temp_str))))
+ValueError: invalid literal for int() with base 10: ''
+16:30:40.488  ERROR
+--> invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 35, in get_same_item_id
+    elems.sort(key=sort_a, reverse=True)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 34, in sort_a
+    return self.get_number(e.get_attribute("textContent"))
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 13, in get_number
+    return int("".join(list(filter(str.isdigit, temp_str))))
+ValueError: invalid literal for int() with base 10: ''
+16:38:21.973  ERROR
+--> object of type 'WebElement' has no len()
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 57, in get_store_link
+    print(len(elems))
+TypeError: object of type 'WebElement' has no len()
+16:38:21.974  ERROR
+--> object of type 'WebElement' has no len()
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/xuan_pin.py", line 57, in get_store_link
+    print(len(elems))
+TypeError: object of type 'WebElement' has no len()
+16:45:28.717  ERROR
+--> XuanPin.get_store_link() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+TypeError: XuanPin.get_store_link() takes 1 positional argument but 2 were given
+16:45:28.718  ERROR
+--> XuanPin.get_store_link() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "/home/yzl178me/test/python/pythoné¡¹ç›®å’Œå·¥å…·/é€‰å“/lib.py", line 56, in wrapped_function
+    return func(*args, **kwargs)
+TypeError: XuanPin.get_store_link() takes 1 positional argument but 2 were given

@@ -1,0 +1,13 @@
+Name     : Yang Zelin
+Type     : Forex Hedged USD
+Server   : MetaQuotes-Demo
+Login    : 5001308826
+Password : 5wntiwln
+Investor : pknfc8hs
+
+Name     : Yang Zelin
+Type     : Forex Hedged USD
+Server   : MetaQuotes-Demo
+Login    : 57261485
+Password : f2tdvoul
+Investor : xqkjaj2t

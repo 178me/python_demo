@@ -1,0 +1,6 @@
+# User
+*.exe
+*.zip
+**/MetaTraderApp/*
+*/过时的/*
+*/info/*

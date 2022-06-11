@@ -1,0 +1,216 @@
+04-29 16:40:39.040:DEBUG 
+`-> 测试 开始
+04-29 16:40:39.041:INFO 
+`-> {
+    "index": 1
+}
+04-29 16:40:39.041:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 16:40:39.635:DEBUG 
+`-> 获取关注列表 开始
+04-29 16:40:40.258:DEBUG 
+`-> 保存粉丝头像和ID 开始
+04-29 16:40:40.286:DEBUG 
+`-> 获取Bottom cursor 开始
+04-29 17:01:42.848:DEBUG 
+`-> run.py 测试
+04-29 17:01:42.849:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:01:43.581:DEBUG 
+`-> 获取关注列表 开始
+04-29 17:01:44.146:DEBUG 
+`-> 保存粉丝头像和ID 开始
+04-29 17:01:44.159:DEBUG 
+`-> 获取Bottom cursor 开始
+04-29 17:02:15.668:DEBUG 
+`-> run.py 测试
+04-29 17:02:15.668:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:02:16.293:DEBUG 
+`-> 获取关注列表 开始
+04-29 17:02:16.909:DEBUG 
+`-> 保存粉丝头像和ID 开始
+04-29 17:02:16.946:DEBUG 
+`-> 获取Bottom cursor 开始
+04-29 17:25:12.452:DEBUG 
+`-> 测试 开始
+04-29 17:25:12.452:INFO 
+`-> {
+    "index": 1
+}
+04-29 17:25:12.452:DEBUG 
+`-> 下载头像 开始
+04-29 17:25:54.607:DEBUG 
+`-> 测试 开始
+04-29 17:25:54.607:INFO 
+`-> {
+    "index": 1
+}
+04-29 17:25:54.607:DEBUG 
+`-> 下载头像 开始
+04-29 17:26:35.120:DEBUG 
+`-> 测试 开始
+04-29 17:26:35.121:INFO 
+`-> {
+    "index": 1
+}
+04-29 17:26:35.121:DEBUG 
+`-> 下载头像 开始
+04-29 17:26:59.478:DEBUG 
+`-> 测试 开始
+04-29 17:26:59.478:INFO 
+`-> {
+    "index": 1
+}
+04-29 17:26:59.478:DEBUG 
+`-> 下载头像 开始
+04-29 17:26:59.479:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:42:15.230:DEBUG 
+`-> 测试 开始
+04-29 17:42:15.230:INFO 
+`-> {
+    "index": 1
+}
+04-29 17:42:15.230:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:42:15.231:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:42:15.713:INFO 
+`-> 登录信息验证成功
+04-29 17:42:15.714:DEBUG 
+`-> 下载头像 开始
+04-29 17:42:15.715:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:44:53.688:DEBUG 
+`-> 测试 开始
+04-29 17:44:53.688:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:44:53.689:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:44:54.628:INFO 
+`-> Expecting value: line 1 column 1 (char 0)
+04-29 17:44:54.629:DEBUG 
+`-> 获取登录信息 开始
+04-29 17:46:46.452:DEBUG 
+`-> 测试 开始
+04-29 17:46:46.453:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:46:46.453:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:46:47.273:INFO 
+`-> Expecting value: line 1 column 1 (char 0)
+04-29 17:46:47.274:DEBUG 
+`-> 获取登录信息 开始
+04-29 17:46:47.917:DEBUG 
+`-> Chrome 连接成功!
+04-29 17:46:49.370:DEBUG 
+`-> _ga_34PHSZMC42=GS1.1.1651047519.2.0.1651047519.0; _gcl_au=1.1.1956895331.1651040921; des_opt_in=Y; at_check=true; external_referer=padhuUp37zjgzgv1mFWxJ5Xq0CLV%2BbpWuS41v6lN3QU%3D|0|8e8t2xd8A2w%3D; personalization_id="v1_X51SozdZtwfsSGjBJcsM5w=="; _ga=GA1.2.1684756119.1650806778; guest_id_ads=v1%3A159297098812037782; guest_id=v1%3A159297098812037782; g_state={"i_p":1650813981695,"i_l":1}; twid=u%3D1518220300801912832; kdt=BIgsx1jsfynozlN9Oe5RkPHknCW7tXN9j5pEG6p0; auth_token=4b64370c41b1d4afe0847a92be3619b6dfd12e04; mbox=session#a1a5d6eac61a42adbcd6789e038a8083#1651043175|PC#a1a5d6eac61a42adbcd6789e038a8083.32_0#1714286115; lang=en; ct0=84665a800ee70b9f96b86e0e36cc575f0db0b21d06528c0b258933b9de6819a735de78de1f501409349e259c3e51bdf0caf2ae6c80223218f2dfd8aa98d5bf429ea82754bcb5c03e71e3356f91c008dc; dnt=1; _twitter_sess=BAh7CyIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADofbGFzdF9wYXNzd29yZF9jb25maXJtYXRpb24i%250AFTE2NTA4MDY5ODQ1MjIwMDA6HnBhc3N3b3JkX2NvbmZpcm1hdGlvbl91aWQi%250AGDE1MTgyMjAzMDA4MDE5MTI4MzI6B2lkIiU3ZDlhZDIyNWVhZjQwN2Y4ODBl%250AYzA4Njc1NGM2ZTBmNzoPY3JlYXRlZF9hdGwrCGWB116AAToMY3NyZl9pZCIl%250AYjBlODEzY2YzODAyYTU2OWQzMDQ5NmQ3ZGNmMTkxNDg%253D--4ea42f79cc5e8939846e3d945ce78ba96cb5f70d; guest_id_marketing=v1%3A159297098812037782; _gid=GA1.2.1359342032.1650957097
+04-29 17:46:49.478:DEBUG 
+`-> 保存登录信息 开始
+04-29 17:46:49.478:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:46:49.479:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:46:49.886:INFO 
+`-> 登录信息验证成功
+04-29 17:46:49.886:DEBUG 
+`-> 下载头像 开始
+04-29 17:46:49.890:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:47:16.067:DEBUG 
+`-> 测试 开始
+04-29 17:47:16.067:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:47:16.067:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:47:16.883:INFO 
+`-> Expecting value: line 1 column 1 (char 0)
+04-29 17:47:16.884:DEBUG 
+`-> 获取登录信息 开始
+04-29 17:47:17.505:DEBUG 
+`-> Chrome 连接成功!
+04-29 17:47:18.216:DEBUG 
+`-> _ga_34PHSZMC42=GS1.1.1651047519.2.0.1651047519.0; _gcl_au=1.1.1956895331.1651040921; des_opt_in=Y; at_check=true; external_referer=padhuUp37zjgzgv1mFWxJ5Xq0CLV%2BbpWuS41v6lN3QU%3D|0|8e8t2xd8A2w%3D; personalization_id="v1_X51SozdZtwfsSGjBJcsM5w=="; _ga=GA1.2.1684756119.1650806778; guest_id_ads=v1%3A159297098812037782; guest_id=v1%3A159297098812037782; g_state={"i_p":1650813981695,"i_l":1}; twid=u%3D1518220300801912832; kdt=BIgsx1jsfynozlN9Oe5RkPHknCW7tXN9j5pEG6p0; auth_token=4b64370c41b1d4afe0847a92be3619b6dfd12e04; mbox=session#a1a5d6eac61a42adbcd6789e038a8083#1651043175|PC#a1a5d6eac61a42adbcd6789e038a8083.32_0#1714286115; lang=en; ct0=84665a800ee70b9f96b86e0e36cc575f0db0b21d06528c0b258933b9de6819a735de78de1f501409349e259c3e51bdf0caf2ae6c80223218f2dfd8aa98d5bf429ea82754bcb5c03e71e3356f91c008dc; dnt=1; _twitter_sess=BAh7CyIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADofbGFzdF9wYXNzd29yZF9jb25maXJtYXRpb24i%250AFTE2NTA4MDY5ODQ1MjIwMDA6HnBhc3N3b3JkX2NvbmZpcm1hdGlvbl91aWQi%250AGDE1MTgyMjAzMDA4MDE5MTI4MzI6B2lkIiU3ZDlhZDIyNWVhZjQwN2Y4ODBl%250AYzA4Njc1NGM2ZTBmNzoPY3JlYXRlZF9hdGwrCGWB116AAToMY3NyZl9pZCIl%250AYjBlODEzY2YzODAyYTU2OWQzMDQ5NmQ3ZGNmMTkxNDg%253D--4ea42f79cc5e8939846e3d945ce78ba96cb5f70d; guest_id_marketing=v1%3A159297098812037782; _gid=GA1.2.1359342032.1650957097
+04-29 17:47:18.608:DEBUG 
+`-> 保存登录信息 开始
+04-29 17:47:18.609:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:47:18.609:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:47:19.127:INFO 
+`-> 登录信息验证成功
+04-29 17:47:19.135:DEBUG 
+`-> 下载头像 开始
+04-29 17:47:19.136:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:48:20.460:DEBUG 
+`-> 测试 开始
+04-29 17:48:20.461:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:48:20.461:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:48:20.461:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:48:20.982:INFO 
+`-> 登录信息验证成功
+04-29 17:48:20.983:DEBUG 
+`-> 下载头像 开始
+04-29 17:48:20.984:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:48:52.862:DEBUG 
+`-> 测试 开始
+04-29 17:48:52.863:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:48:52.863:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:48:52.863:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:48:53.443:INFO 
+`-> 登录信息验证成功
+04-29 17:48:53.444:DEBUG 
+`-> 下载头像 开始
+04-29 17:48:53.445:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:50:18.177:DEBUG 
+`-> 测试 开始
+04-29 17:50:18.177:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:50:18.180:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:50:18.180:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:50:18.743:INFO 
+`-> 登录信息验证成功
+04-29 17:50:18.745:DEBUG 
+`-> 下载头像 开始
+04-29 17:50:18.746:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:50:31.496:DEBUG 
+`-> 测试 开始
+04-29 17:50:31.497:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:50:31.497:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:50:31.497:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:50:32.050:INFO 
+`-> 登录信息验证成功
+04-29 17:50:32.050:DEBUG 
+`-> 下载头像 开始
+04-29 17:50:32.050:INFO 
+`-> 已经下载过了，自动跳过
+04-29 17:51:15.453:DEBUG 
+`-> 测试 开始
+04-29 17:51:15.454:DEBUG 
+`-> 读取本地登录信息 开始
+04-29 17:51:15.454:DEBUG 
+`-> 验证登录信息 开始
+04-29 17:51:15.454:DEBUG 
+`-> 获取用户资源ID 开始
+04-29 17:51:15.983:INFO 
+`-> 登录信息验证成功
+04-29 17:51:15.984:DEBUG 
+`-> 下载头像 开始
+04-29 17:51:15.985:INFO 
+`-> 已经下载过了，自动跳过

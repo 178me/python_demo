@@ -1,0 +1,8 @@
+requests
+pywinauto
+pyautogui
+opencv-python
+pyperclip
+pyqt5
+pyinstaller
+matplotlib
